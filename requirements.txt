@@ -1,0 +1,5 @@
+dotenv
+gradio
+pypdf
+google-generativeai
+fastapi[standard]
