@@ -12,3 +12,6 @@ Esmeralda fue responsable de construir una API con FastAPI y una interfaz web co
 - Api cuebot(Sprint 3): [Prueba API CUEBOT](https://drive.google.com/file/d/1r32g2gU-tkpbkUqiIFUi2kmP3Qo_-lFU/view?usp=sharing)
 - Fast Api(Sprint 2): [Prueba Fast API](https://drive.google.com/file/d/1XsLmQwsfnBeeYWmSL_dxJjzrY3n4rP1Z/view?usp=sharing)
   
+**NOTA:**
+Se hace uso de la api de gemini para potenciar los apartados generativos, la cual require de una clave para sa uso la cual no es provista en el repositorio. 
+Por lo que debe generar una en [https://ai.google.dev/](https://ai.google.dev/) y posteriormente colocarla en los apartados señalados en los scripts.
